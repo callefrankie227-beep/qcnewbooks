@@ -1,0 +1,33 @@
+<div class="max-w-2xl mx-auto mt-10 p-8 bg-gray-950 border border-gray-700 rounded-lg">
+<h1 class="text-2xl font-bold text-center mb-6 text-orange-900">Balance Sheet</h1>
+  <p class="text-center text-gray-500 text-sm mb-6">As of December 31</p>
+  <h2 class="text-sm font-bold uppercase tracking-wide text-orange-900 mb-2">Assets</h2>
+ <div class="flex justify-between py-3 border-b border-gray-700">
+    <span class="text-gray-300">Cash</span>
+    <span class="text-green-400 font-mono">$50,000</span>
+  </div>
+  <div class="flex justify-between py-3 border-b border-gray-700">
+    <span class="text-gray-300">Equipment</span>
+    <span class="text-green-400 font-mono">$5,000</span>
+  </div>
+  <div class="flex justify-between py-3 border-b border-gray-700">
+    <span class="text-gray-300">Accounts Receivable</span>
+    <span class="text-green-400 font-mono">$25,000</span>
+  </div>
+  <div class="flex justify-between py-4 px-3 mt-2 bg-yellow-900 rounded">
+    <span class="text-yellow-100 font-bold">Total Assets</span>
+    <span class="text-orange-400 font-mono font-bold">$80,000</span>
+  </div>
+
+  <h2 class="text-sm font-bold uppercase tracking-wide text-orange-900 mt-6 mb-2">Liabilities</h2>
+  <div class="flex justify-between py-3 border-b border-gray-700">
+    <span class="text-gray-300">Accounts Payable</span>
+    <span class="text-red-400 font-mono">$15,000</span>
+  </div>
+  <div class="flex justify-between py-4 px-3 mt-4 bg-yellow-900 rounded">
+    <span class="text-yellow-100 font-bold">Owner's Equity</span>
+    <span class="text-orange-400 font-mono font-bold">$60,000</span>
+  </div>
+<p class="text-xs text-gray-500 mt-8 text-center">Prepared by QC NewBooks</p>
+</div>
+  
