@@ -12,6 +12,7 @@
     <span>Net Revenue</span>
     <span>$145,000</span>
   </div>  <div>
-    <span>Net Income</span>
+    <span><strong>Net Income</strong></span>
     <span>$85,000</span>
   </div>
+
